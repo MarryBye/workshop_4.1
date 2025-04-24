@@ -10,8 +10,6 @@
 
 ## Виконана робота:
 
-![](https://github.com/MarryBye/workshop_8/blob/master/images/image.png?raw=true)  
-
 Пройдена гра The Bezier Game
 Скриншоти:
 
